@@ -1,5 +1,4 @@
-aqui está o script modificado para que 
-```lua
+
 -- Servidor
 local Players = game:GetService("Players")
 
@@ -45,4 +44,4 @@ end)
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
     Text = "HumanGPT is fire"
 })
-```
+
